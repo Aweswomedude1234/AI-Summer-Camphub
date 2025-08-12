@@ -1,0 +1,103 @@
+Please build a complete, polished, multi-page website using Bootstrap for styling. The website is for an AI workshop with pages for Day 1 through Day 5 and a Home page. The site must be responsive and user-friendly.
+
+1. Navigation:  
+- A sticky top navbar with links: Home, Day 1, Day 2, Day 3, Day 4, Day 5.
+
+2. Home Page:  
+- Title: “AI Workshop Resource Hub”  
+- Short welcoming paragraph explaining this is a hub for all workshop resources.  
+- Prominently display a clickable link titled:  
+  "Open Google Drive Folder" linking to https://drive.google.com/drive/u/1/folders/1h5OlWqkIfM85kQkBAdIV_yv4c07pX_gF?usp=sharing that opens in a new tab.  
+- Below that, add a section titled “Class Creations & Sharing” with text:  
+  "Upload and browse all student projects here:" and embed or provide a big clickable button linking to the Padlet board: https://padlet.com/columbusoh/AISummerCamp (opens in new tab).  
+- Provide a short overview list of each day with a brief description and a button linking to that day’s page.
+
+3. Day 1 Page (Activities and AI Text & Voice):  
+Sections in this order, each with cards or lists showing the tool name and clickable links that open in new tabs:
+
+- Activities:  
+  - Thing Translator — https://thing-translator.appspot.com/  
+  - Say What You See — (no link, just mention)  
+  - Quick, Draw! — https://quickdraw.withgoogle.com/
+
+- Generative Text AI:  
+  - LMArena — https://lmarena.ai/  
+  - Hugging Face Chat — https://huggingface.co/chat  
+  - Poe — https://poe.com
+
+- Voice / Music / Audio AI:  
+  - ElevenLabs — https://elevenlabs.io/  
+  - Murf — https://murf.ai/  
+  - Google Speech-to-Text — https://cloud.google.com/speech-to-text  
+  - Suno AI — https://suno.ai/  
+  - Soundraw — https://soundraw.io/  
+  - Pi AI (voice chat) — https://pi.ai/  
+  - Character.ai (voice option) — https://character.ai/  
+  - Replika (voice calls) — https://replika.com/
+
+- Deep Research AI:  
+  - Deepseek — https://deepseek.com/  
+  - Getliner — https://getliner.com/  
+  - Perplexity — https://perplexity.ai/  
+  - Gemini — https://gemini.google.com/
+
+- Pro AI Tools:  
+  - Grok — https://x.ai/  
+  - Gemini — https://gemini.google.com/  
+  - ChatGPT — https://chatgpt.com/
+
+4. Day 2 Page (Image Generation):  
+Title: "Image Creation and Design"
+
+Organize links into sections:
+
+- Drawing / Fun AI:  
+  - Quickdraw — https://quickdraw.withgoogle.com/  
+  - AutoDraw — https://www.autodraw.com/
+
+- AI Image Generators:  
+  - Craiyon — https://www.craiyon.com/  
+  - Mage — https://mage.space/  
+  - Playground AI — https://playground.com/  
+  - Canva AI — https://www.canva.com/  
+  - LMArena — https://lmarena.ai/  
+  - Teachable Machine — https://teachablemachine.withgoogle.com/train
+
+- Pro AI:  
+  - DALL·E — https://openai.com/dall-e  
+  - ChatGPT — https://chatgpt.com/  
+  - Poe — https://poe.com/
+
+5. Day 3 Page (Video Generation):  
+Title: "AI Video Creation"  
+Links:  
+- Runway ML — https://runwayml.com/  
+- Pika Labs — https://pikalabs.com/  
+- Add text: "Work in progress, more links will be added."
+
+6. Day 4 Page (Website & Coding):  
+Title: "AI for Websites and Coding"  
+Links:  
+- Base44 — https://base44.com/  
+- Chatbots section:  
+  - Teachable Machine — https://teachablemachine.withgoogle.com/train  
+  - Noupe — https://noupe.com/  
+- Blackbox AI — https://blackbox.ai/  
+- Add Jotform — https://www.jotform.com/  
+- Add note: "More to be added later."
+
+7. Day 5 Page:  
+Title: "Coming Soon"  
+Content: "This day is under construction. Stay tuned!"
+
+8. Design Requirements:  
+- Use Bootstrap cards or list groups for each tool with the tool name and clickable link that opens in a new tab.  
+- The navbar must be sticky and responsive.  
+- Use a clear, friendly color scheme and distinct section headers.  
+- Provide a mobile-friendly grid or list layout for tools.  
+- Ensure all external links open in new tabs.  
+- Add smooth scrolling to anchors if applicable.
+
+Generate the full HTML, CSS (preferably Bootstrap CDN), and any JavaScript needed so I can copy and paste the entire project into Replit as index.html or a multi-page project.
+
+Thank you!
